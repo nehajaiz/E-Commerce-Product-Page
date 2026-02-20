@@ -32,7 +32,7 @@ Clean and modular frontend code
 
 
 🌐 Live Demo
-
+https://github.com/nehajaiz/E-Commerce-Product-Page/
 
 🔮 Future Improvements
 
