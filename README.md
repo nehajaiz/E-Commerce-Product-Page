@@ -28,7 +28,7 @@ LocalStorage for data persistence
 Responsive UI design
 Clean and modular frontend code
 
-📸 Preview
+📸 Screenshots
 
 
 🌐 Live Demo
