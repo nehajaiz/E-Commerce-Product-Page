@@ -16,7 +16,9 @@ Responsive design (mobile-first)
 🛠️ Tech Stack
 
 HTML5
+
 CSS3 (Flexbox, Grid, Media Queries)
+
 JavaScript (ES6+)
 
 
